@@ -60,6 +60,7 @@ Please note the Root 3 CNC machine can be configured for **different belt sizes*
 | Side_Panel|2|[Root CNC Store](https://rootcnc.com/product/root-3-side-panel/)|
 | Z_Axis_WoodPanel_Front|1|[Root CNC Store](https://rootcnc.com/product/root-3-front-rear-x-carriage-z-plate/)|
 | Z_Axis_WoodPanel_Rear|1|[Root CNC Store](https://rootcnc.com/product/root-3-front-rear-x-carriage-z-plate/)|
+
 Wooden Panel kits can be found [HERE](https://rootcnc.com/product/root-3-cnc-starter-pack/) 
 
 # Electronics/ Electro Mechanical
@@ -88,6 +89,7 @@ Wooden Panel kits can be found [HERE](https://rootcnc.com/product/root-3-cnc-sta
 |HTD 3M Round Tooth Timing Belt Pulley 8mm Bore 24T*| Yes       | 5/7      |[LINK]()|
 |HTD 3M Round Tooth Timing Belt Pulley 8mm Bor 20T*| Yes       | 2      |[LINK]() |
 |HTD 3M Round Tooth Timing Belt 9mm Wide 345-3M-9| Yes       | 1      |[LINK_UK]() [LINK]()
+
 (\*) Dependant on stepper motor selection - This configuration will work for the above stepper motor from OMC Stepper Motor Online
 
 # Hardware
@@ -115,6 +117,7 @@ Below is guide on the QTY required/ the pack sizes I brought to assemble the Roo
 |M8 Nuts|YES|100|YES||
 |M8 Collar|YES|4|YES||
 |M8 Tee Nuts|NO||NO||
+
 (\*) Length of the box section is dependant on size of the machine you are building - use this link for more information [LINL](https://rootcnc.com/machines/root-3/root-3-dimensions/)
 
 # MISC Items
