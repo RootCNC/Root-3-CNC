@@ -1,7 +1,8 @@
-
-# Root 3 CNC
+<img align="right" width=175 src="https://raw.githubusercontent.com/RootCNC/Root-3-CNC/master/Media/Root_3_CNC.jpg" />
+# Root 3 CNC - 3D Printed CNC Machine 
 
 <img align="center" width=600 src="https://raw.githubusercontent.com/RootCNC/Root-3-CNC/master/Media/Root_3.jpg" />
+
 R3 is the third incarnation of the Root CNC. I have been completely blown away with the community which has been created by this project and listening to all the comments and suggestions made – R3 was created. R3 Is keeping to the same design goals as before, but since then a lot has been learnt and areas for improvements been highlighted. There have been many changes implemented on this revision, some radical and some minor though all the changes have been implemented to increase configurability, rigidity, flexibility, accuracy and also reduce the amount of different parts required.
 
 R3 now supports the largest of NEMA23 motors and also the NEMA17s motors depending on the user’s configuration. Its accuracy has also been increased by the removal of the second loop of belt on the Y-Axis whilst still keeping the two side of the gantry still connected together. The second loop of belt introduced a position error when a load was applied to the gantry, now there is only single belt length to increase its positional accuracy. By doing this made it difficult to keep the two sides of the gantry relatives to one another (something another 3D printed CNCs suffer with). Though R3 gantry sides are connected together, so no matter if the machine losses power or is disconnect the machine still stays relevant to one another to keep its running true and square.
@@ -39,3 +40,4 @@ Thingiverse - [LINK](https://www.thingiverse.com/thing:1750276)
 
 This project is licensed under the Creative Commons 4.0 license with 
 Attribution-NonCommerial-ShareAlike see `LICENSE.txt` for details
+
