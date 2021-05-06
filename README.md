@@ -26,7 +26,7 @@ Thingiverse - [LINK](https://www.thingiverse.com/thing:1750276)
 ### Milling Plywood
 ```
 ```
-<iframe width="1280" height="720" src="https://youtu.be/CBPlBkgISfY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/CBPlBkgISfY/0.jpg)](http://www.youtube.com/watch?v=CBPlBkgISfY "")
 ```
 ```
 ## License
