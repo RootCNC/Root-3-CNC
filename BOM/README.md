@@ -4,7 +4,7 @@
 # Root 3 CNC Bill of materials
 The Root 3 CNC is configurable in many ways, here are a few confirations you'll need to consider before building one.
 
-Please note a Excel document can be download for more information - [Link](https://github.com/RootCNC/Root-3-CNC/blob/master/BOM/R3%20BOM.xlsx}
+Please note a Excel document can be download for more information - [Link](https://github.com/RootCNC/Root-3-CNC/blob/master/BOM/R3%20BOM.xlsx)
 #### Belt Options:
  - 2mm GT2 Belts
  - 3mm HTD Belts (Advised option)
