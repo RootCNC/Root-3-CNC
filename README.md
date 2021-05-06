@@ -1,3 +1,4 @@
+
 # Root 3 CNC
 R3 is the third incarnation of the Root CNC. I have been completely blown away with the community which has been created by this project and listening to all the comments and suggestions made – R3 was created. R3 Is keeping to the same design goals as before, but since then a lot has been learnt and areas for improvements been highlighted. There have been many changes implemented on this revision, some radical and some minor though all the changes have been implemented to increase configurability, rigidity, flexibility, accuracy and also reduce the amount of different parts required.
 
@@ -23,12 +24,15 @@ For the latest and greatest - please use GitHub
 Github (Latest files) - [LINK](https://github.com/RootCNC/Root-3-CNC) 
 Thingiverse - [LINK](https://www.thingiverse.com/thing:1750276)
 ## Videos
+### Assembly guilds 
+[![](http://img.youtube.com/vi/VfKX0M21cGE/0.jpg)](http://www.youtube.com/watch?v=VfKX0M21cGE "")
 ### Milling Plywood
-```
-```
 [![](http://img.youtube.com/vi/CBPlBkgISfY/0.jpg)](http://www.youtube.com/watch?v=CBPlBkgISfY "")
-```
-```
+### First Movements
+[![](http://img.youtube.com/vi/zV66W9bVTgU/0.jpg)](http://www.youtube.com/watch?v=zV66W9bVTgU "")
+### Dry Run
+[![](http://img.youtube.com/vi/VkSvLdQc4Qw/0.jpg)](http://www.youtube.com/watch?v=VkSvLdQc4Qw "")
+
 ## License
 
 This project is licensed under the Creative Commons 4.0 license with 
