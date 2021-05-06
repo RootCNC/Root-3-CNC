@@ -1,4 +1,4 @@
-<img align="right" width=175 src="https://raw.githubusercontent.com/RootCNC/Root-3-CNC/master/Media/Root_3.jpg" />
+<img align="right" width=175 src="https://raw.githubusercontent.com/RootCNC/Root-3-CNC/master/Media/Root%203%20CNC.png" />
 
 # Root 3 CNC - 3D Printed CNC Machine 
 
