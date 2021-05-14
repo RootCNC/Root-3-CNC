@@ -2,9 +2,9 @@
 <img align="right" width=175 src="https://github.com/RootCNC/Root-4-CNC/blob/master/Media/R_Logo.png" />
 
 # Root 3 CNC Bill of materials
-The Root 3 CNC is configurable in many ways, here are a few confirations you'll need to consider before building one.
+The Root 3 CNC is configurable in many ways, here are a few configurations you'll need to consider before building one.
 
-Please note a Excel document can be download for more information - [Link](https://github.com/RootCNC/Root-3-CNC/blob/master/BOM/R3%20BOM.xlsx)
+Please note an Excel document can be downloaded for more information - [Link](https://github.com/RootCNC/Root-3-CNC/blob/master/BOM/R3%20BOM.xlsx)
 #### Belt Options:
  - 2mm GT2 Belts
  - 3mm HTD Belts (Advised option)
@@ -12,14 +12,14 @@ Please note a Excel document can be download for more information - [Link](https
  - 25x25mm Box section (Metric) 
  - 1"x1" Box section (Imperial)
 #### Motor Section
-Root 3 CNC can accomidate either NEMA 17 or NEMA 23 Motors. If budget allows, I would recommend the Nema 23 motor defined in the list below
+Root 3 CNC can accommodate either NEMA 17 or NEMA 23 Motors. If budget allows, I would recommend the NEMA 23 motor defined in the list below
 ### Spindle Options
 Root 3 supports a number of Spindle sizes:
  - 52mm
  - 65mm
  - 80mm
 #### Coach bolts
-Coach bolts are optional for the 3D printed carriage if you want a low profile mounting. if you choose to use coach bolts to mount the two carriages together, then you'll need half coach and half standard (this information in the Excel Bill or Materials)
+Coach bolts are optional for the 3D printed carriage if you want a low profile mounting. if you choose to use coach bolts to mount the two carriages together, then you'll need half coach and half standard (this information in the Excel Bill of Materials)
 # 3D Printed Parts required
 Please note the Root 3 CNC machine can be configured for **different belt sizes** and **different box section sizes**. 
 | 3D Printed Parts                 | Required | QTY    |
@@ -66,17 +66,17 @@ Wooden Panel kits can be found [HERE](https://rootcnc.com/product/root-3-cnc-sta
 # Electronics/ Electro Mechanical
 | Item               | Required | QTY    | Link|
 |----------------------------------|----------|--------|-----|
-| 23HS41-1804S Nema 23 1.8deg 2.4Nm (340oz.in) 1.8A               | YES       | 4      | [LINK](https://www.omc-stepperonline.com/nema-23-bipolar-1-8deg-2-4nm-340oz-in-1-8a-4-95v-57x57x104mm-4-wires.html/?tracking=5efc6f6300e83)|
-|Nema 17 Bipolar 1.8deg 65Ncm (92oz.in) 2.1A |NO |4| [LINK](https://www.omc-stepperonline.com/nema-17-bipolar-1-8deg-65ncm-92oz-in-2-1a-3-36v-42x42x60mm-4-wires-it.html/?tracking=5efc6f6300e83)|
+| 23HS41-1804S NEMA 23 1.8deg 2.4Nm (340oz.in) 1.8A               | YES       | 4      | [LINK](https://www.omc-stepperonline.com/nema-23-bipolar-1-8deg-2-4nm-340oz-in-1-8a-4-95v-57x57x104mm-4-wires.html/?tracking=5efc6f6300e83)|
+| NEMA 17 Bipolar 1.8deg 65Ncm (92oz.in) 2.1A |NO |4| [LINK](https://www.omc-stepperonline.com/nema-17-bipolar-1-8deg-65ncm-92oz-in-2-1a-3-36v-42x42x60mm-4-wires-it.html/?tracking=5efc6f6300e83)|
 | 1.5KW Spindle with VFD|YES|1|[LINK_1](https://s.click.aliexpress.com/e/_dX0JKm3) [LINK_2](https://s.click.aliexpress.com/e/_dT4xs63) [LINK_3](https://s.click.aliexpress.com/e/_dSjt6gr) [LINK_4](https://s.click.aliexpress.com/e/_dSUhh43)
-| 400W Quite Spindle (not recommend)|NO |||
+| 400W Quiet Spindle (not recommended)|NO |||
 | Micro Switch SPDT micro switch V4 KW11i|YES|6|[LINK UK](https://amzn.to/31Kf1wC) [LINK](https://s.click.aliexpress.com/e/_ATnQCz)| 
 | 12V or 24V PSU (For Controller power + any lights) |YES|1|[12V_LINK_UK](https://amzn.to/2HxYvIS) [12V_lINK](https://s.click.aliexpress.com/e/_AACYyd)| 
 | Aviation plug (GX12) |NO|x|[LINK_UK](https://amzn.to/31LBPfl) [LINK](https://s.click.aliexpress.com/e/_AtqbWz)|
 | Stepper Motor Drivers (E.G DRV8825)| YES | 4||
 | Cooling Fan - 60mm DC Fan | YES | 1 ||
 | 4 Core AWG24/26 Cable | YES |||
-| Arduion Mega With RAMP kit ||||
+| Arduino Mega With RAMP kit ||||
 | Root CNC GRBL controller comming soon ||||
 
 # Motion
@@ -118,7 +118,7 @@ Below is guide on the QTY required/ the pack sizes I brought to assemble the Roo
 |M8 Collar|YES|4|YES||
 |M8 Tee Nuts|NO||NO||
 
-(\*) Length of the box section is dependant on size of the machine you are building - use this link for more information [LINL](https://rootcnc.com/machines/root-3/root-3-dimensions/)
+(\*) Length of the box section is dependant on size of the machine you are building - use this link for more information [LINK](https://rootcnc.com/machines/root-3/root-3-dimensions/)
 
 # MISC Items
 | Item               | Required | QTY    | Link|
