@@ -22,31 +22,31 @@ Root 3 supports a number of Spindle sizes:
 Coach bolts are optional for the 3D printed carriage if you want a low profile mounting. if you choose to use coach bolts to mount the two carriages together, then you'll need half coach and half standard (this information in the Excel Bill of Materials)
 # 3D Printed Parts required
 Please note the Root 3 CNC machine can be configured for **different belt sizes** and **different box section sizes**. 
-| 3D Printed Parts                 | Required | QTY    |
-|----------------------------------|----------|--------|
-| Box Section Linear (\*1) | YES       | 8       |
-| Y Axis Bar Mount (\*2) (\*3) Mirror | YES       | 2      |
-| Y Axis Bar Mount (\*2) (\*3) STD | YES       | 2      |
-| X Axis Belt Clamp (\*3) Belt Plate | YES       | 2      |
-| X Axis Belt Clamp (\*3) | YES       | 2      |
-| Motor Mount (\*4)| YES      | 2      |
-| 50mm Spacer (\*4)| YES      | 2      |
-| X Carriage Belt Idler | YES      | 1      |
-| Y Axis Dust Cover Spacer | NO      | 4      |
+| 3D Printed Parts                 | Required | QTY    | Alternative |
+|----------------------------------|----------|--------|-------------|
+| Box Section Linear (\*1) | YES       | 8       ||
+| Y Axis Bar Mount (\*2) (\*3) Mirror | YES       | 2      ||
+| Y Axis Bar Mount (\*2) (\*3) STD | YES       | 2      ||
+| X Axis Belt Clamp (\*3) Belt Plate | YES       | 2      ||
+| X Axis Belt Clamp (\*3) | YES       | 2      ||
+| Motor Mount (\*4)| YES      | 2      ||
+| 50mm Spacer (\*4)| YES      | 2      ||
+| X Carriage Belt Idler | YES      | 1      ||
+| Y Axis Dust Cover Spacer | NO      | 4      ||
 | Y Gantry Bearing Cap | YES      | 1      |
-| Y Gantry Bearing Cap (Cable mount) | YES      | 1      |
-| Y Gantry Bearing Space | YES      | 2      |
+| Y Gantry Bearing Cap (Cable mount) | YES      | 1      ||
+| Y Gantry Bearing Space | YES      | 2      ||
 | Y Gantry Box Mount Foot | YES      | 4   |
-| Y Gantry Box Section Belt Clamp | YES      | 4     |
-| Y Gantry Motion Link | YES      | 2      |
-| Z Axis Bearing Cup Bottom | YES      | 1    |
-| Z Axis Bearing Cup Top | YES      | 1   |
-| MGN 12 Spindle mount (\*5) (Text) | YES      | 1      |
-| MGN 12 Spindle mount (\*5)  | YES      | 1      |
-| X Axis Drag Chain mount X carriage | YES      | 1      |
-| X Axis Drag Chain Mount Y Side panel | YES      | 1      |
-| Y Axis Drag Chain mount to  X carriage | YES      | 1      |
-| Drag Chain Y Carriage Mount | YES      | 1      | 
+| Y Gantry Box Section Belt Clamp | YES      | 4     ||
+| Y Gantry Motion Link | YES      | 2      ||
+| Z Axis Bearing Cup Bottom | YES      | 1    ||
+| Z Axis Bearing Cup Top | YES      | 1   |Z Axis Bearing Cup Top - Limit Tab Removed<br />Allows clearance for router (Makita in my case) by removing the upper Z limit switch tab |
+| MGN 12 Spindle mount (\*5) (Text) | YES      | 1      ||
+| MGN 12 Spindle mount (\*5)  | YES      | 1      ||
+| X Axis Drag Chain mount X carriage | YES      | 1      ||
+| X Axis Drag Chain Mount Y Side panel | YES      | 1      ||
+| Y Axis Drag Chain mount to  X carriage | YES      | 1      ||
+| Drag Chain Y Carriage Mount | YES      | 1      ||
 
 (\*1) Optional Configuration: for standard M8 Bolts print x8 Guild STD and for Coach bolt print x8 Guild STD and 4x COACH BOLT
 (\*2) Select box section size
