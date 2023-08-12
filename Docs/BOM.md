@@ -9,7 +9,7 @@ dateCreated: 2022-05-24T19:30:47.756Z
 ---
 
 
-<img align="right" width=175 src="https://github.com/RootCNC/Root-4-CNC/blob/master/Media/R_Logo.png" />
+<img align="right" width=175 src="https://raw.githubusercontent.com/RootCNC/Root-3-CNC/master/Media/Root%203%20CNC.png" />
 
 # Root 3 CNC Bill of materials
 The Root 3 CNC is configurable in many ways, here are a few configurations you'll need to consider before building one.
