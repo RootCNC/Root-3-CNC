@@ -56,4 +56,4 @@ dateCreated: 2022-06-28T22:17:17.168Z
 <img src="https://raw.githubusercontent.com/RootCNC/Root-3-CNC/master/Media/Docs/Build-Images/ex_20170501_181849-e1496346017400.jpg" width="600">
 <img src="https://raw.githubusercontent.com/RootCNC/Root-3-CNC/master/Media/Docs/Build-Images/ex_20170501_181851-e1496343973908.jpg" width="600">
 <img src="https://raw.githubusercontent.com/RootCNC/Root-3-CNC/master/Media/Docs/Build-Images/ex_20170501_181855-e1496344484862.jpg" width="600">
-<img src="https://raw.githubusercontent.com/RootCNC/Root-3-CNC/master/Media/Docs/Build-Images/ex_20170501_181858-e1496344383267.jpg
+<img src="https://raw.githubusercontent.com/RootCNC/Root-3-CNC/master/Media/Docs/Build-Images/ex_20170501_181858-e1496344383267.jpg" width="600">
