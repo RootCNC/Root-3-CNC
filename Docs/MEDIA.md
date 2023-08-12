@@ -20,11 +20,11 @@ Links to non-official videos of the Root 3 cnc. Just a few of the videos that th
 - [plywood](https://www.youtube.com/watch?v=qoaiHhIS8y8)
 - [no cutting, just moving](https://www.youtube.com/watch?v=_PqRj57KkUw)
 - [dremel 3000 as spindle](https://www.youtube.com/watch?v=9FLgetXrfY0)
-- [plywood, with dust shoe)(https://www.youtube.com/watch?v=5yzxbGJIvBg)
+- [plywood, with dust shoe](https://www.youtube.com/watch?v=5yzxbGJIvBg)
 
 
 ## Build process
 - [Timelapse of first half of build, no voiceover](https://www.youtube.com/watch?v=sJdK4KLR89o)
 - [second half of build, no voiceover](https://www.youtube.com/watch?v=9sj80fLrxw4)
 - [carriages assembly, has a great google doc in the description](https://www.youtube.com/watch?v=mLDNwsXnJGA)
-- [box section carriages assembly, has a great google doc in the description)(https://www.youtube.com/watch?v=ErkqIhtdq1w)
+- [box section carriages assembly, has a great google doc in the description](https://www.youtube.com/watch?v=ErkqIhtdq1w)
