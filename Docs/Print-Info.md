@@ -1,3 +1,13 @@
+---
+title: Root 3 Print Orientation
+description: How to print the parts for the Root 3
+published: true
+date: 2022-06-28T22:24:57.245Z
+tags: root 3, how to print
+editor: markdown
+dateCreated: 2022-06-28T22:17:17.168Z
+---
+
 # Box Section Linear Guild STD
 <img src="https://raw.githubusercontent.com/RootCNC/Root-3-CNC/master/Media/Docs/Print-Info/Root%203%20-%20Box%20Section%20Linear%20Guild%20STD.png" width="600">
 
