@@ -1,3 +1,13 @@
+---
+title: Root 3 Media Links
+description: Root 3 Youtube Links
+published: true
+date: 2022-06-28T21:37:30.411Z
+tags: root 3, r3
+editor: markdown
+dateCreated: 2022-05-24T19:30:47.756Z
+---
+
 # Media
 Links to non-official videos of the Root 3 cnc. Just a few of the videos that the community has created. Feel free to add more!
 
